@@ -2,7 +2,7 @@
 
 This repository contains jupyter notebook of the Anomaly Detection project that I did.
 
-# Algorithm implemented :
+### Algorithm implemented :
 
 - Cluster based anomaly detection (K-mean)
 - Repartition of data into categories then Gaussian/Elliptic Enveloppe on each categories separately
